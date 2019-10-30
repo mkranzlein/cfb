@@ -1,0 +1,7 @@
+name: cfb
+dependencies:
+    - conda-forge::nodejs=12.8.1
+    - jupyterlab
+    - matplotlib
+    - numpy
+    - pandas
